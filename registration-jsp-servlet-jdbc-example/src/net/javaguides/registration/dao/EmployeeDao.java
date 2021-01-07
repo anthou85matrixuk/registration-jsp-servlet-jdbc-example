@@ -6,7 +6,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 import net.javaguides.registration.model.Employee;
-
+//lol
 public class EmployeeDao {
 	private PreparedStatement preparedStatement;
 	private char[] PreparedStatement;
